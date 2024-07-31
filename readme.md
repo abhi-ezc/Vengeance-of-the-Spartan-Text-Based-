@@ -28,11 +28,11 @@ To play this game, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/vengeance-of-the-spartan.git
+    git clone https://github.com/abhi-ezc/Vengeance-of-the-Spartan-Text-Based-.git
     ```
 2. Navigate to the game directory:
     ```sh
-    cd vengeance-of-the-spartan
+    cd Vengeance-of-the-Spartan-Text-Based-
     ```
 3. Compile the game using a C++ compiler:
     ```sh
